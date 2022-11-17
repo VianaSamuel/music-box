@@ -75,7 +75,7 @@ async function main() {
       gist_id: gistID,
       files: {
         [filename]: {
-          filename: `🎵 Artistas mais tocados essa semana:`,
+          filename: `🎵 Artistas mais ouvidos essa semana:`,
           content: lines.join("\n"),
         },
       },
